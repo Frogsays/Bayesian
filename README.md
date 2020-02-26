@@ -2,9 +2,12 @@
 
 ## Bayesian Computing in the Statistics and Data Science Curriculum
 
-* Non-simulation approach: 
-** discrete bayes
-** conjugate analysis
+* Non-simulation approach:  
+
+** discrete bayes 
+
+** conjugate analysis 
+
 ** normal approximation (e.g., to bionomial dist under big n, ~N(np, sqrt(npq)) )
 
 ## Logistic Model/Regression and Odds

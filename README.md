@@ -28,7 +28,7 @@
   
   - 再往后就是下面的 模拟估计方法：simulation
   
-  -- simulation
+    - Simulation
   
   
   

@@ -1,4 +1,4 @@
-# Bayesian
+# Bayesian Inference
 
 ## Bayesian Computing in the Statistics and Data Science Curriculum
 

@@ -38,9 +38,9 @@
   - non-conjugate, multi-parameter Bayesian models, exact solutions to th eposterior is analytically unavailable
   
   - Markov chain Monte Carlo
-  
+  核心在于如何derive FC posterior for each parameter: https://bragqut.files.wordpress.com/2018/04/deriving-the-full-conditionals.pdf  FC 化简，在DAG中，可以得到，其只正比于 与该参数的 子节点，父节点，兄弟节点 的条件概率之积！（可推演证明）
     - Gibbs Sampler: 
-    核心在于如何derive FC posterials of each parameters: https://bragqut.files.wordpress.com/2018/04/deriving-the-full-conditionals.pdf
+    如果参数后验服从显式常见分布，则直接用gibbs采样，否则MH
     
     - Metropolis-Hastings algorithm
     

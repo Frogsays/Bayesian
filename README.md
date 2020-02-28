@@ -39,7 +39,8 @@
   
   - Markov chain Monte Carlo
   
-    - Gibbs Sampler
+    - Gibbs Sampler: 
+    核心在于如何derive FC posterials of each parameters: https://bragqut.files.wordpress.com/2018/04/deriving-the-full-conditionals.pdf
     
     - Metropolis-Hastings algorithm
     
